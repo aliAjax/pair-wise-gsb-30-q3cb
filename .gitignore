@@ -14,5 +14,6 @@ pnpm-debug.log*
 .env.*
 !.env.example
 *.tsbuildinfo
+.verify-out/
 .idea/
 .vscode/
